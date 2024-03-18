@@ -1,9 +1,9 @@
 package eventhandling
 
 import (
-	"context"
 	"basket-api/integration-events/events"
 	"basket-api/repositories"
+	"context"
 
 	"github.com/rs/zerolog/log"
 )
